@@ -12,7 +12,7 @@ public class TC1test{
 	
 	@Test
 	public void m3() {
-		Reporter.log("kalpana stupid girl");
+		Reporter.log("kalpana stupid  but some what good girl");
 	}
 	
 	
